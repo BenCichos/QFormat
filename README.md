@@ -22,3 +22,27 @@ The QOI Format is a lossless image format, that offers faster encoding and decod
 <img width="1440" alt="003" src="https://user-images.githubusercontent.com/64483654/191492284-49568672-0316-4a5d-b8d0-3a32ac415f45.png">
 <img width="1440" alt="004" src="https://user-images.githubusercontent.com/64483654/191492296-0dc91ffa-98f7-41b5-bb79-e13e3267ac9e.png">
 <img width="1440" alt="005" src="https://user-images.githubusercontent.com/64483654/191492306-0ec8f285-9335-44f3-921f-7304d86ca1d6.png">
+
+## License
+
+MIT License
+
+Copyright (c) 2022 Benjamin Frank Cichos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
